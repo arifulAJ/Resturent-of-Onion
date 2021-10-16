@@ -1,0 +1,11 @@
+.header{
+    height: 400px;
+    background-repeat: no-repeat;
+ 
+    background-origin: content-box;
+   
+    
+     background-size: cover;
+      
+    background-image: url(../../image-folder/bannerbackground.png);
+}

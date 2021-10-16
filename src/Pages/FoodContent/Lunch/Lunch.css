@@ -1,0 +1,5 @@
+.lunch{
+display: grid;
+grid-template-columns: repeat(1fr);
+grid-gap: 10px;
+}

@@ -1,0 +1,12 @@
+.food{
+    padding: 10px ;
+    margin: 20px;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    text-decoration: none;
+}
+.food:hover{
+    text-decoration: underline; 
+    color: tomato;
+}
