@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Website mockup with different devices
+<img src="https://i.ibb.co/yqmbNjB/Screenshot-28.png" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+## techonology are uses 
+<li> JavaScript</li>
+<li> React.js</li>
+<li> Html</li>
+<li> CSS</li>
+<li> Firebase</li>
+
+## live privew web site 
+
+live: https://hot-onion-restaurant-3e8c6.web.app/
 
 ## Available Scripts
 
